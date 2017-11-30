@@ -1,0 +1,4 @@
+#忽略依赖包
+node_modules
+#生产文件
+dist
